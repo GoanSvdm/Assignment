@@ -3,7 +3,6 @@ multiply
 multiply.exe
 
 # Fichiers de données/logs
-output.txt
 *.log
 
 # Dossiers de configuration de l'éditeur
