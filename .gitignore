@@ -1,0 +1,15 @@
+# Exécutables (le résultat de g++)
+multiply
+multiply.exe
+
+# Fichiers de données/logs
+output.txt
+*.log
+
+# Dossiers de configuration de l'éditeur
+.vscode/
+.idea/
+
+# Fichiers système
+.DS_Store
+Thumbs.db
