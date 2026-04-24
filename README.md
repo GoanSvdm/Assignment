@@ -21,7 +21,7 @@ g++ -O0 multiply.cpp -o multiply
 
 ### 2. Statistical study with script Python
 ```bash
-python3 projet
+python3 projet.py
 ```
 
 
